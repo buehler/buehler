@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+concurrency:
+  cancel-in-progress: true
+  group: metrics
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
