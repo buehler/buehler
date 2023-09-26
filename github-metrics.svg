@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1368" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1403" class="">
     <defs>
         <style/>
     </defs>
@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    79.7 MB used
+                                    79.5 MB used
                                 </div>
                             </section>
                             <section>
@@ -313,7 +313,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 3 days
+                            Current streak 4 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1325,6 +1325,11 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3 0,1.3 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3 1.7,2.3 z"/>
                             </g>
+                            <g transform="translate(-1.7, 6.699999999999999)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3 0,1.3 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3 1.7,2.3 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1473,7 +1478,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        846
+                                        847
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1526,7 +1531,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        379
+                                        381
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1569,35 +1574,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 3 commits in
                                         <span class="repo">buehler/dotnet-operator-sdk</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/rbac-generator</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8411f8b</div>
-                                        <div class="message">restructure code start</div>
+                                        <div class="sha">#01c3ea0</div>
+                                        <div class="message">testing</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">buehler/dotnet-operator-sdk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#49c7b4c</div>
-                                        <div class="message">chore: use github ref in concurrency</div>
+                                        <div class="sha">#7afb5e7</div>
+                                        <div class="message">move stuff around</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79b6913</div>
+                                        <div class="message">algorithmic transpiling</div>
                                     </div>
                                 </div>
                             </section>
@@ -1609,9 +1602,9 @@
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
+                                        Deleted
                       branch
-                                        <span class="code">feat/rbac-generator</span>
+                                        <span class="code">renovate/xunit-dotnet-monorepo</span>
                                         in
                                         <span class="repo">buehler/dotnet-operator-sdk</span>
                                     </div>
@@ -1632,9 +1625,104 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d3de017</div>
-                                        <div class="message">chore: temporarily ignore _old folder in renovate</div>
+                                        <div class="sha">#10c16eb</div>
+                                        <div class="message">chore(deps): update xunit-dotnet monorepo to v2.5.1 (#613)
+
+[![Mend
+Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+| [xunit](https://togithub.com/xunit/xunit) | `2.4.2` -&gt; `2.5.1` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/xunit/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/xunit/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/xunit/2.4.2/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/xunit/2.4.2/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+|
+[xunit.runner.visualstudio](https://togithub.com/xunit/visualstudio.xunit)
+([source](https://togithub.com/xunit/xunit)) | `2.4.5` -&gt; `2.5.1` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/xunit.runner.visualstudio/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/xunit.runner.visualstudio/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/xunit.runner.visualstudio/2.4.5/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/xunit.runner.visualstudio/2.4.5/2.5.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;xunit/xunit (xunit)&lt;/summary&gt;
+
+### [`v2.5.1`](https://togithub.com/xunit/xunit/compare/2.5.0...2.5.1)
+
+[Compare Source](https://togithub.com/xunit/xunit/compare/2.5.0...2.5.1)
+
+### [`v2.5.0`](https://togithub.com/xunit/xunit/compare/2.4.2...2.5.0)
+
+[Compare Source](https://togithub.com/xunit/xunit/compare/2.4.2...2.5.0)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 9pm,before 6am" in timezone
+Europe/Zurich, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled because a matching PR was automerged
+previously.
+
+♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about these
+updates again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR has been generated by [Mend
+Renovate](https://www.mend.io/free-developer-tools/renovate/). View
+repository job log
+[here](https://developer.mend.io/github/buehler/dotnet-operator-sdk).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNi45Ny4xIiwidXBkYXRlZEluVmVyIjoiMzYuOTcuMSIsInRhcmdldEJyYW5jaCI6Im1haW4ifQ==--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Co-authored-by: Christoph Bühler &lt;buehler@users.noreply.github.com&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#613 chore(deps): update xunit-dotnet monorepo to v2.5.1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by renovate[bot] in <span class="repo">buehler/dotnet-operator-sdk</span></div>
+                                    <div>4 files changed <span class="code">++8 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1645,15 +1733,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">buehler/dotnet-operator-sdk</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">renovate/xunit-dotnet-monorepo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6c9e997</div>
-                                        <div class="message">chore: correct redirect in index.md</div>
+                                        <div class="sha">#cbfc35d</div>
+                                        <div class="message">Merge branch 'main' into renovate/xunit-dotnet-monorepo</div>
                                     </div>
                                 </div>
                             </section>
